@@ -1,0 +1,1 @@
+Week 22 - Bug Bounty and Responsible Disclosure
